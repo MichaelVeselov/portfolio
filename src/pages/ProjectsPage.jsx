@@ -18,7 +18,7 @@ export const ProjectsPage = () => {
   useEffect(() => {
     setLoading(true);
     api.projects.fetchAll().then((response) => {
-      const data = [...response].sort(() => Math.random() - 0.5);
+      const data = [...response].sort((a, b) => a.name.localeCompare(b.name));
       setProjectList(data);
       setLoading(false);
     });
