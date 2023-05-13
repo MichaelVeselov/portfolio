@@ -17,6 +17,7 @@ import tesla from '../assets/projects/tesla.png';
 import spotify from '../assets/projects/spotify.png';
 import newssite from '../assets/projects/newssite.png';
 import heroadminpanel from '../assets/projects/hero-admin-panel.png';
+import devfinder from '../assets/projects/devfinder.png';
 
 import {
   frontEndSkills,
@@ -244,6 +245,16 @@ export const projectList = [
     github:
       'https://github.com/MichaelVeselov/react-rtk-query-hero-admin-panel',
     deploy: '',
+  },
+  {
+    id: 'p-20',
+    name: 'Github user finder',
+    image: devfinder,
+    description:
+      'The app using react and typescript, allows you to search by name for github users, display their information, and switch between light and dark themes. The application was developed using: React and Typescript.',
+    techs: [html, css, react, js, typescript, git, github],
+    github: 'https://github.com/MichaelVeselov/react-github-user-search-app',
+    deploy: 'https://mve-react-devfinder.vercel.app/',
   },
 ];
 
