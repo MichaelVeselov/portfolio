@@ -88,6 +88,16 @@ const additionalEducation = [
     certificate: 'UC-8de1c9a7-f7f5-4a8b-8c62-98afbef60284',
   },
   {
+    id: 'ae-08',
+    date: '2023',
+    title: 'Course "Typescript for modern development"',
+    subtitle: 'Stepik',
+    description:
+      'Types, interfaces and type aliases, arrays and tuples, union and enum, generics, typeguards, built-in TypeScript utilities, type mapping and template literals, typing React and Redux applications.',
+    length: '12',
+    certificate: '',
+  },
+  {
     id: 'ae-10',
     date: '2022 - dato',
     title: 'Course "Frontend Developer"',
