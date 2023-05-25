@@ -119,15 +119,15 @@ export const HomePage = () => {
             gutterBottom
           >
             My name is Michael Veselov. I've been studying web development since
-            the beginning of 2022. At the end of August 2023 I'm going to
-            complete the online course "Frontend Developer" at Result School .
-            The course’s curriculum largely included Java Script and React JS. I
-            also studied CSS frameworks and libraries like Tailwind CSS,
-            Bootstrap, Material UI and Styled components, the React Router
-            library, and the Redux state management library. At the end of the
-            course I will also be able to write a small backend application
-            using the Express JS and Mongo DB. On top of that, I have a
-            Typescript course planned at the rest of the course.
+            the beginning of 2022. In addition to the 720-hour online "Frontend
+            Developer" course at Result School, I've also done several courses
+            on the Udemy platform. As part of the above courses, I learned
+            JavaScript and TypeScript, ReactJS, the React Router library and the
+            Redux State Management library, CSS frameworks and libraries such as
+            Bootstrap, Material UI , Tailwind CSS, and Styled Components. I am
+            also able to write a small backend application using NodeJS,
+            ExpressJS, and MongoDB. My pet projects can be found on my portfolio
+            page and GitHub page.
           </Typography>
 
           <Typography

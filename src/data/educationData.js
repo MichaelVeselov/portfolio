@@ -99,7 +99,7 @@ const additionalEducation = [
   },
   {
     id: 'ae-10',
-    date: '2022 - dato',
+    date: '2022 - 2023',
     title: 'Course "Frontend Developer"',
     subtitle: 'Result School',
     description:
