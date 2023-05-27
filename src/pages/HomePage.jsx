@@ -163,8 +163,8 @@ export const HomePage = () => {
             fontSize='18px'
             gutterBottom
           >
-            Starting September 01, 2023, I am looking for a job as a Web
-            Developer and would welcome offers.
+            As of now I am looking for a job as a Web Developer and would
+            welcome offers.
           </Typography>
 
           <Typography
